@@ -9,9 +9,9 @@ timestamp: 2026-06-15
 open knowledge repository
 
 Contenidos:
-- [Metodología](./metodologia.md)
+- [Metodología](metodologia.md)
 - [Inteligencia Artificial](./inteligencia-artificial.md)
-- [Tecnologías Emergentes](./tecnologias-emergentes.md)
+- [Tecnologías Emergentes](tecnologias-emergentes.md)
 - [Gestión de Producto Digital](./gestion-producto-digital.md)
 
 

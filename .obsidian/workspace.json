@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tecnologias-emergentes.md.md",
+                "file": "tecnologias-emergentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tecnologias-emergentes.md"
+              "title": "tecnologias-emergentes"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tecnologias-emergentes.md.md",
+                "file": "tecnologias-emergentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tecnologias-emergentes.md"
+              "title": "Backlinks for tecnologias-emergentes"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tecnologias-emergentes.md.md",
+                "file": "tecnologias-emergentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from tecnologias-emergentes.md"
+              "title": "Outgoing links from tecnologias-emergentes"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tecnologias-emergentes.md.md",
+                "file": "tecnologias-emergentes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tecnologias-emergentes.md"
+              "title": "Outline of tecnologias-emergentes"
             }
           }
         ]
@@ -184,9 +184,9 @@
   },
   "active": "5ab550d4e6cc08a1",
   "lastOpenFiles": [
-    "metodologia.md.md",
-    "index.md.md",
-    "tecnologias-emergentes.md.md",
+    "metodologia.md",
+    "index.md",
+    "tecnologias-emergentes.md",
     "inteligencia-artificial.md"
   ]
 }
